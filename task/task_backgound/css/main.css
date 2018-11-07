@@ -1,0 +1,11 @@
+html{
+    /*background 이미지 설정*/
+    background-image: url("../img/V.jpg");
+    background-repeat: no-repeat;
+  /*background-position: center;*/
+    background-position-x: center;
+  /*background-position-y: center;*/
+    background-attachment: local;
+  /*background-size: 100% 100%;*/
+
+}
